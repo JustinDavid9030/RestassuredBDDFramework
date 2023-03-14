@@ -1,0 +1,8 @@
+BaseURI: 
+   receivinguri : https://c-services-qa4.copart.com
+   authuri : https://c-auth-qa4.copart.com/
+   
+
+QACreds :
+   mail : opsportusr@copart.com
+   password : "#O1sVgS1!z91"

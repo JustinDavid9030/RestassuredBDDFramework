@@ -1,0 +1,46 @@
+{
+   "basicInfo":{
+      "sellerDetail":{
+         "sellerId":"COOL"
+      },
+      "primaryDamageType":"HL",
+      "secondaryDamageType":"",
+      "primarySOD":"1",
+      "secondarySOD":"",
+      "mechanicalDamageTypes":"",
+      "airBagsDeployed":"Y",
+      "additionalDamageTypes":"",
+      "troubleCodes":""
+   },
+   "vehicleInformation":{
+      "vehicleIdentificationNumber":"",
+      "yearOfVehicle":2010,
+      "makeOfVehicle":"AUDI",
+      "modelOfVehicle":"A4",
+      "color":"GREEN",
+      "vehicleType":"V"
+   },
+   "inventoryInformation":{
+      "hasVinPlates":"N",
+      "odometerReading":555,
+      "odometerCondition":"",
+      "hasKeys":"Y",
+      "hasEngine":"Y",
+      "hasVinSticker":"Y",
+      "hasTransmission":"Y",
+      "transmissonType":"Automatic",
+      "hasNppi":"Y",
+      "nppiLocation":"O",
+      "hasLicensePlate":"Y",
+      "runCondition":"D",
+      "licenseExpiryDate":"0127",
+      "licensePlateNumber":"Test",
+      "licensePlateState":"AL",
+      "noOfLicensePlates":"2",
+      "hasPersonalPlate":"Y"
+   },
+   "sellerRequiredFields":[
+      
+   ],
+   "totalImageCount":14
+}
